@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm dehmani mohamed</h1>
-<h3 align="center">A passionate fullstack developer from Tunisia</h3>
+<h1 align="center">Hello, I'm Dahmani Mohamed 🧠</h1>
+<h3 align="center">A Strategic and Analytical Software Engineer Specializing in Full Stack Development</h3>
 
-
-<h1 align="center">Hi 👋, I'm Dahmani Mohamed</h1>
-<h3 align="center">A passionate Software Engineer with expertise in Full Stack Development</h3>
 
 <p align="center">
   <a href="https://totaltechtn.com">Website</a> •
+  <a href="https://dehmani-mohamed.vercel.app/blogs">Portfolio Blogs</a> •
   <a href="https://github.com/medkira">GitHub</a> •
   <a href="mailto:mohamed.deftex@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/dahmani-mohamed/">LinkedIn</a>
@@ -22,19 +20,21 @@
 - **Misc Skills:** Project Management, Problem Solving, UI/UX Design, Agile Methodologies, Debugging, Testing, Technical Documentation
 
 ### 🚀 Key Projects:
-1. **Bug Tracker App (Flutter, Node.js, MongoDB)**
-   - Developed a cross-platform application to manage and track software bugs using Flutter for the front-end and Node.js for the back-end.
-   - Implemented clean architecture to ensure modularity and maintainability.
-   
-2. **Social Media API (Node.js, TypeScript, MongoDB)**
-   - Created a scalable API for social media applications using Node.js and TypeScript.
-   - Utilized MongoDB for efficient data storage and retrieval.
-
-3. **Recommendation Website with AI Chatbot (Vue.js, Node.js, Rasa, Cloudinary)**
+   **Recommendation Website with AI Chatbot (Vue.js, Node.js, Rasa, Cloudinary)**
    - Developed a recommendation website with an integrated AI chatbot using Rasa.
    - Implemented Clean Architecture for the backend, ensuring clear separation of concerns and maintainability.
    - Integrated Google OAuth with Passport.js and used Cloudinary for image management.
    - Implemented prompt engineering with Geminie Vision to read menus and generate JSON files.
+
+   **Social Media API (Node.js, TypeScript, MongoDB)**
+   - Created a scalable API for social media applications using Node.js and TypeScript.
+   - Utilized MongoDB for efficient data storage and retrieval.
+     
+   **Cookie Studio App (Flutter, Node.js, MongoDB)**
+   - Developed a cross-platform application to manage and track software bugs using Flutter for the front-end and Node.js for the back-end.
+   - Implemented clean architecture to ensure modularity and maintainability.
+ 
+
 
 ### 🏆 Achievements:
 - Successfully transitioned from MVC design to Clean Architecture in multiple projects, ensuring scalability and maintainability.
@@ -42,7 +42,7 @@
 - Consistently delivered high-quality software solutions across various domains, including web and mobile development.
 
 ### 📚 Blog:
-I have a blog where I share my thoughts on Clean Architecture and other software development topics. You can check it out [here](https://totaltechtn.com/blog).
+I have a blog where I share my thoughts on Clean Architecture and other software development topics. You can check it out [here](https://dehmani-mohamed.vercel.app/blogs).
 
 ### 📫 Contact:
 Feel free to reach out to me for any collaboration or opportunities.
