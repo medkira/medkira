@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Dahmani Mohamed 🧠</h1>
+<h1 align="center">♚ Hello, I'm Dahmani Mohamed ♚</h1>
 <h3 align="center">♚ A Strategic and Analytical Software Engineer Specializing in Full Stack Development ♚</h3>
 
 
