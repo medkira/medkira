@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://totaltechtn.com">Website</a> •
   <a href="https://dehmani-mohamed.vercel.app/blogs">Portfolio Blogs</a> •
-  <a href="https://github.com/medkira">GitHub</a> •
   <a href="mailto:mohamed.deftex@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/mohamed-dahmani-64574a266/">LinkedIn</a>
 </p>
